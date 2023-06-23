@@ -1,16 +1,12 @@
 # consforc
 
-A new Flutter project.
+## Instructions
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 1- Get the code and open in Android Studio (If the Flutter and Android Studio is installed completely on your system)
+## 2- In the Android Studio open the terminal (Find it in the bottom)
+## 3- Run these commands ->  flutter clean   after that run ->   flutter pub get
+## 4- Connect any device or open Emulator if installed (If you are connecting real device then make sure you turned on the USB debugging from the developer options)
+## 5- When the device is successffully connected (You will see the device name on the top center)
+## 6- Run command ->   flutter run     it will run the application.
